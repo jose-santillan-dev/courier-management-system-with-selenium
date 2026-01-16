@@ -27,5 +27,14 @@ The Selenium test project validates key user flows of the web application, ensur
 ## Purpose
 This project was developed as part of my academic training and later refined for professional portfolio use, focusing on clean structure, automation, and real-world practices.
 
+## Database ⚠️
+This project uses MySQL as the database engine.
+
+To run the project locally:
+- A MySQL server is required
+- The connection string must be configured in the application settings
+
+The database is not included in this repository for security and portability reasons.
+
 
 
