@@ -14,6 +14,7 @@ It includes a functional web application and automated end-to-end UI tests imple
 - Selenium WebDriver
 - C#
 - Visual Studio
+- MySql
 
 
 ## Project Structure
